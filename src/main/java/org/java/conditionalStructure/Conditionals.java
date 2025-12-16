@@ -1,4 +1,4 @@
-package org.java.structureconditional;
+package org.java.conditionalStructure;
 
 import java.util.Locale;
 import java.util.Scanner;

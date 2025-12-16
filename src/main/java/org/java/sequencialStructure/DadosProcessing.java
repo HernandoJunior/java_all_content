@@ -1,4 +1,4 @@
-package org.java.structuresequencial;
+package org.java.sequencialStructure;
 
 public class DadosProcessing {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.java.structureconditional.exercises;
+package org.java.conditionalStructure.exercises;
 
 import java.util.Scanner;
 

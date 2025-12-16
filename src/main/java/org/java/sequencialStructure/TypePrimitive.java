@@ -1,4 +1,4 @@
-package org.java.structuresequencial;
+package org.java.sequencialStructure;
 
 import java.util.Locale;
 
