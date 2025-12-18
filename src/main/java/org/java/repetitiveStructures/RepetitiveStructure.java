@@ -16,7 +16,10 @@ public class RepetitiveStructure {
         System.out.println("Valor total da soma: " + sum);
 
         //Test 2 -> For
-
+        x = 3;
+        for(int i = 0; i < x; i++){
+            System.out.println("Valor de I: " + i);
+        }
 
     }
 }
